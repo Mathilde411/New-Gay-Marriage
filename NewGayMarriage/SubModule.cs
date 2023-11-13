@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using TaleWorlds.CampaignSystem.ComponentInterfaces;
 using TaleWorlds.Core;
 
-namespace GayMarriage
+namespace NewGayMarriage
 {
     using TaleWorlds.MountAndBlade;
 

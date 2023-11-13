@@ -6,7 +6,7 @@ using TaleWorlds.CampaignSystem.ComponentInterfaces;
 using TaleWorlds.Core;
 using TaleWorlds.Library;
 
-namespace GayMarriage
+namespace NewGayMarriage
 {
     public class GayMarriageModel : MarriageModel
     {
